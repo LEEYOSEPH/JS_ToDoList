@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  width: 480px;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  background-color: white;
+  border: white;
+}
